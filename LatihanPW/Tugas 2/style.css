@@ -1,0 +1,15 @@
+p {
+  /* warna header*/
+  color: red;
+  text-align: center;
+}
+
+h1 {
+  /* warna footer*/
+  color: aqua;
+  text-align: center;
+}
+
+body {
+  background-color: chocolate;
+}
